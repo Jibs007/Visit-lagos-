@@ -1,4 +1,4 @@
-/* #1B7339 - green color  */
+
 *{
     box-sizing: border-box;
 }
@@ -12,6 +12,7 @@ body{
     width: 100%
 
 }
+/* hero */
 
 .hero{
     background-image: url(Images/lagos-island-hero.jpg);
@@ -73,38 +74,17 @@ body{
     padding: 40px;
     color: #CCDAD1;
     display: flex;
+    box-shadow: 10px 10px black;
+
 
 }
 
 #jibola-img{
     border-radius: 10px;
     width: 280px;
+    margin-right: 5px;
 }
 
 .card-text{
-    font-style: ;
+    font-size: 23px;
 }
-
-
-
-
-
-/* 
-.card{
-    width: 500px;
-    margin: auto;
-    display: flex;
-    justify-content: space-around;
-    background-color: #093A3E;
-    padding: 20px;
-    border-radius: 15px;
-    box-shadow: 10px 10px;
-}
-
-.card:hover{
-    background: #001011;
-    color: #CCDAD1;
-}
-
-
-*/
